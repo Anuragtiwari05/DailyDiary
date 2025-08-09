@@ -1,4 +1,5 @@
 DailyDiary 📝
+<br>
 Project Overview
 DailyDiary is a web application designed to help users maintain a personal diary by creating, viewing, editing, and deleting posts. It offers secure user authentication, a clean and intuitive interface, and a responsive design optimized for all devices.
 
